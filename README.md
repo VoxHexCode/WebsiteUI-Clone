@@ -1,2 +1,2 @@
 # WebsiteUI-Clone
-Website UI Clone using HTML and CSS
+Amazon website UI Clone using HTML and CSS
